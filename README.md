@@ -22,10 +22,11 @@ unless I am on a secret tryst with
 
 
 ## (Semi-)active hobby projects:
-- Investigation of my commute time delay: https://github.com/vegardkv/travelpredict
+- Tenting location tool for Norway based on open data: https://github.com/vegardkv/telttur and https://turvann.no/
 - Car ad scraper to assess ad listing price: https://github.com/vegardkv/finn-bruktbil
 
 ## Past hobby projects
+- Investigation of my commute time delay: https://github.com/vegardkv/travelpredict
 - 2D grid-based path planning: https://github.com/vegardkv/gridijkstra
 - Fast-marching method implementation with raw numpy: https://github.com/vegardkv/pyfmm
 - Norwegian "kommune" population growth: https://github.com/vegardkv/norwegian-kommune-growth
